@@ -4,6 +4,12 @@ This project focuses on building a natural language processing (NLP) system usin
 My Team's Github Link: https://github.com/arviereyhan/CareerLeap/tree/ML
 
 ## Problem Understanding
+The project aims to address unemployment by leveraging opportunities in Job, Talent, and Employment through an application. With a working-age population of 209.42 million, where 8.43 million people are unemployed, the goal is to provide individuals with the resources to prepare themselves for employment.
+
+The application will allow users to upload their CV and answer a survey related to their chosen skill. If users do not meet the minimum criteria, the application will recommend relevant courses for them to enhance their skills and knowledge.
+
+By providing targeted recommendations and access to skill-building courses, the project aims to decrease unemployment rates by equipping individuals with the necessary tools to improve their employability.
+
 
 ## Dataset
 The dataset used for this project is sourced from Kaggle and consists of resumes for various job positions. The original dataset contains 962 entries with information on 25 different job positions. However, for this specific project, we have focused on six specific job positions:
